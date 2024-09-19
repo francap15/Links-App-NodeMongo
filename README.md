@@ -48,3 +48,11 @@ Un especial agradecimiento a **Fazt**, creador de contenido sobre desarrollo de 
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes ideas para mejorar la aplicación, no dudes en abrir un issue o enviar un pull request.
+
+## Imagenes de la web
+
+![InitialPage](https://github.com/user-attachments/assets/d72bca24-d3e9-4347-ad7d-b1d614c37ffa)
+
+![PageAddLinks](https://github.com/user-attachments/assets/91704e27-6b73-4452-8b57-0b330d41638f)
+
+![PageLinks](https://github.com/user-attachments/assets/7c74a877-3998-4758-ad88-630885679d1b)
